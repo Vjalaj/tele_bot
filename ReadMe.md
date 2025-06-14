@@ -115,7 +115,7 @@ Our enhanced OCR system uses multiple techniques for maximum accuracy:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/ai-question-bot.git
+git clone https://github.com/Vjalaj/tele_bot.git
 cd ai-question-bot
 
 # 2. Create virtual environment

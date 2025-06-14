@@ -78,7 +78,7 @@ AI_MODELS = {
 }
 
 # Optional: Windows users may need to specify the Tesseract path
-pytesseract.pytesseract.tesseract_cmd = r'C:\JD\Tesseract\tesseract.exe'
+# pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Handle the /start command"""
