@@ -1,0 +1,11 @@
+python-telegram-bot>=20.0
+openai
+groq
+google-generativeai
+pytesseract
+Pillow
+opencv-python
+python-dotenv
+filetype
+pytz
+tzlocal==2.1
